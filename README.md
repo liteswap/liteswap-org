@@ -1,3 +1,3 @@
-# UniswapV2
+# LiteswapV2
 
 `yarn && yarn start`
